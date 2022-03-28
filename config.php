@@ -12,7 +12,7 @@ return [
         'name' => 'Nicole Salow',
     ],
     'links' => [
-        'linkedin' => 'https://linkedin.com/in/nicole-salow',
+        'linkedin' => 'https://www.linkedin.com/in/nicolesalow/',
         'github' => 'https://github.com/nsalow32',
     ],
     'services' => [
