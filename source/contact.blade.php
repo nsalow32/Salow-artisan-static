@@ -2,7 +2,6 @@
 
 @section('title', 'Contact')
 
-@section('content')
     <h1>About</h1>
 
     <p>My name is {{ $page->owner->name }}</p>
@@ -13,7 +12,6 @@
         <li><a href="/linkedin" target="_blank">LinkedIn</a></li>
         <li><a href="/github" target="_blank">GitHub</a></li>
     </ul>
-@endsection
 
 @section('content')
     <h1>Contact</h1>
