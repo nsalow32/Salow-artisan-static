@@ -4,16 +4,16 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => 'My Jigsaw Blog',
+        'title' => 'Nicole Salow  |  Senior Graphic Designer',
         'description' => 'Personal blog of John Doe.',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
+        'name' => 'Nicole Salow',
     ],
     'links' => [
-        'twitter' => 'https://twitter.com/johndoe',
-        'github' => 'https://github.com/johndoe',
+        'linkedin' => 'https://linkedin.com/in/nicole-salow',
+        'github' => 'https://github.com/nsalow32',
     ],
     'services' => [
         'cmsVersion' => '~2.10',
