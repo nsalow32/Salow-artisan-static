@@ -6,7 +6,7 @@
     <h1>{{ $page->title }}</h1>
 
     @if ($page->image)
-        <img src="{{ $page->image }}" style="object-fit: cover; height: 250px; width: 100%;">
+        <img src="{{ $page->image }}" style="object-fit: cover; height: 100%; width: 100%;">
     @endif
 
     <p>
@@ -17,23 +17,10 @@
         @endforeach
     </p>
 
-    <blockquote data-phpdate="{{ $page->date }}">
-        <em>WARNING: This post is over a year old. Some of the information this contains may be outdated.</em>
-    </blockquote>
-
-    <hr>
-
-    <p>DISCLAIMER: Any 3rd-party services in these posts and in the config are only recommendations/suggestions. I am not affiliated with any of them.</p>
-
     @yield('postContent')
 
     <hr>
 
     @include('_partials.share')
 
-    @if ($page->comments)
-        @include('_partials.comments')
-    @else
-        <p>Comments are not enabled for this post.</p>
-    @endif
 @endsection
