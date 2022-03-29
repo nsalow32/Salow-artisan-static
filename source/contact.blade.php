@@ -2,11 +2,6 @@
 
 @section('title', 'Contact')
 
-    <h1>About</h1>
-
-    <p>My name is {{ $page->owner->name }}</p>
-
-
 @section('content')
     <h1>Contact</h1>
     
