@@ -1,10 +1,8 @@
 ---
-title: '10 - Cloudinary Media Library'
-date: 2021-11-28
+title: 'My First Project'
 image: https://res.cloudinary.com/artisanstatic/photos.jpg
 comments: false
 ---
-Register on [Cloudinary](https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/qq2slabgpy590znlop4j).
 
 Go to `config.php`, add your **cloud name** and **API key** under the `services` key.
 
