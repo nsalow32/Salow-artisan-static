@@ -20,7 +20,5 @@
     @yield('postContent')
 
     <hr>
-
-    @include('_partials.share')
-
+    
 @endsection
