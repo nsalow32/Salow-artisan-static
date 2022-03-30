@@ -32,7 +32,7 @@ article {
 //* {border-collapse: separate;border-spacing: 0;box-sizing: border-box;margin: 0;max-width: 100%;padding: 0px;vertical-align: center;} //*
 
 body {
-    font-size: 18px;
+    font-size: 20px;
     color: #000000;
     font-family: 'Karla', sans-serif;
     margin: auto;
@@ -44,7 +44,10 @@ header {
     color: #000000;
     background-color: #ffdd00;
     top: 0;
-    padding: 15px, 30px, 30px, 30px;
+    padding-top: 20px;
+    padding-left: 28px;
+    padding-right: 28px;
+    padding-bottom: 28px;
     position: sticky;
     position: -webkit-sticky; /*safari*/
     max-wdith: 800px;
