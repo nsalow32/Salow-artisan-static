@@ -31,6 +31,13 @@ article, header, footer {
     padding: 0px;
     vertical-align: baseline;
 }
+
+body {
+    font-size: 18px;
+    color: #000000;
+    font-family: 'Karla', sans-serif;
+    padding: 36px;
+}
       
 header {
     font-size: 50px;
@@ -44,6 +51,7 @@ header {
     align-items: center;
     padding: 10px, 16px;
     height: 60px;
+    display: block;
 }
     
 .test-css {
@@ -63,12 +71,6 @@ h3 {
     color: #000000;
     font-family: 'Karla', sans-serif;
     display:inline;
-}
-
-body {
-    font-size: 18px;
-    color: #000000;
-    font-family: 'Karla', sans-serif;
 }
 
 p {
