@@ -1,9 +1,9 @@
 @extends('_layouts.master')
 
 @section('content')
-    <NMblack>>HELLO! MY NAME IS<NMblack><NM>NICOLE SALOW.</NM>
+    <h1>HELLO! MY NAME IS<h1><h2>NICOLE SALOW.</h2>
     </br>
-    <NMblack>Let's work together!</NMblack>
+    <h2>Let's work together!</h2>
     
     <body>
 
