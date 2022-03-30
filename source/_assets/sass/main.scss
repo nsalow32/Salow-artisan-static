@@ -13,13 +13,13 @@ button[data-sharer] {
     color: #fff;
 }
 
-article {
-    background: #ffffff;
-}
-
 body, article, header, footer {
     background: #ffffff;
     padding: 45px;
+}
+
+article {
+    background: #ffffff;
 }
 
 //* {border-collapse: separate;border-spacing: 0;box-sizing: border-box;margin: 0;max-width: 100%;padding: 0px;vertical-align: center;} //*
@@ -28,17 +28,14 @@ body {
     font-size: 18px;
     color: #000000;
     font-family: 'Karla', sans-serif;
-    padding: 36px;
     margin: auto;
+    max-wdith: 800px;
 }
       
 header {
     font-size: 50px;
     color: #000000;
     background-color: #ffdd00;
-    font-family: 'Karla', sans-serif;
-    margin: auto;
-    padding: 36px;
     top: 0;
     position: sticky;
     position: -webkit-sticky; /*safari*/
@@ -46,11 +43,8 @@ header {
 
 ul {
     list-style-type: none;
-    margin: auto;
     overflow: hidden;
     font-size: 20px;
-    align-content: center;
-    text-align: center;
 }
 
 li {
@@ -58,13 +52,13 @@ li {
 }
 
 li a {
-    padding: 14px, 16px;
+    padding: 15px;
 }
 
 li a:hover {
     background-color: #000000;
     color: #ffdd00;
-    padding: 10px;
+    padding: 15px;
 }
 
 a {
