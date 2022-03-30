@@ -52,13 +52,17 @@ title {
 }
 
 a:link {
-      color: #ffdd00;
-      font-weight: 700;
-      text-decoration: none;
+    color: #000000;
+    font-weight: 700;
+    text-decoration: none;
+    border: 2px solid #ffdd00;
+    padding: 5px;
 }
 
 a:visited {
-      color: #ffdd00;
-      font-weight: 700;
-      text-decoration: none;
+    color: #000000;
+    font-weight: 700;
+    text-decoration: none;
+    border: 2px solid #ffdd00;
+    padding: 5px;
 }
