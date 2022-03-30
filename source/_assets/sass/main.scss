@@ -15,14 +15,11 @@ button[data-sharer] {
 
 article {
     background: #ffffff;
-        vertical-align: center;
 }
 
 body, article, header, footer {
     background: #ffffff;
     padding: 45px;
-    vertical-align: center;
-    align-content: center;
 }
 
 //* {border-collapse: separate;border-spacing: 0;box-sizing: border-box;margin: 0;max-width: 100%;padding: 0px;vertical-align: center;} //*
@@ -33,7 +30,6 @@ body {
     font-family: 'Karla', sans-serif;
     padding: 36px;
     margin: auto;
-    max-width: 75%;
 }
       
 header {
@@ -42,7 +38,6 @@ header {
     background-color: #ffdd00;
     font-family: 'Karla', sans-serif;
     margin: auto;
-    max-width: 75%;
     padding: 36px;
     top: 0;
     position: sticky;
@@ -60,14 +55,10 @@ ul {
 
 li {
     float: left;
-    align-content: center;
-    text-align: center;
 }
 
 li a {
     padding: 14px, 16px;
-    text-align: center;
-    text-decoration: none;
 }
 
 li a:hover {
@@ -77,7 +68,14 @@ li a:hover {
 }
 
 a {
-  padding: 10px;
+    padding: 10px;
+    color: #000000
+}
+
+a:hover {
+    background-color: #000000;
+    color: #ffdd00;
+    padding: 10px;
 }
     
 .test-css {
