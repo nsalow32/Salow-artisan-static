@@ -24,7 +24,13 @@ article, header, footer {
     vertical-align: center;
 }
 
-* {
+//* {border-collapse: separate;border-spacing: 0;box-sizing: border-box;margin: 0;max-width: 100%;padding: 0px;vertical-align: center;} //*
+
+body {
+    font-size: 18px;
+    color: #000000;
+    font-family: 'Karla', sans-serif;
+    padding: 36px;
     border-collapse: separate;
     border-spacing: 0;
     box-sizing: border-box;
@@ -32,13 +38,6 @@ article, header, footer {
     max-width: 100%;
     padding: 0px;
     vertical-align: center;
-}
-
-body {
-    font-size: 18px;
-    color: #000000;
-    font-family: 'Karla', sans-serif;
-    padding: 36px;
 }
       
 header {
