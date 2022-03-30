@@ -23,6 +23,7 @@
     
         <header>
             <nav>
+            <h1>Nicole Salow | Senior Graphic Designer</h1>
                 <ul>
                     <li><a href="/">Home</a></li>
                     <li><a href="/design">Design</a></li>
