@@ -13,6 +13,25 @@ button[data-sharer] {
     color: #fff;
 }
 
+article {
+    background: #ffffff;
+}
+
+article, header, footer {
+    background: #ffffff;
+    padding: 45px;
+}
+
+* {
+    border-collapse: separate;
+    border-spacing: 0;
+    box-sizing: border-box;
+    margin: 0;
+    max-width: 100%;
+    padding: 0px;
+    vertical-align: baseline;
+}
+      
 header {
     font-size: 50px;
     color: #000000;
