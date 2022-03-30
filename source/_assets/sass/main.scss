@@ -43,8 +43,9 @@ header {
     font-family: 'Karla', sans-serif;
     padding: 15px;
     margin: auto;
-    max-width: 100%;
+    max-width: 75%;
     padding: 36px;
+    top: 0;
     position: sticky;
     position: -webkit-sticky; /*safari*/
 }
@@ -59,7 +60,9 @@ ul {
 }
 
 li {
-  float: left;
+    float: left;
+    align-content: center;
+    text-align: center;
 }
 
 li a {
