@@ -15,6 +15,7 @@ button[data-sharer] {
 
 article {
     background: #ffffff;
+        vertical-align: center;
 }
 
 article, header, footer {
@@ -30,7 +31,7 @@ article, header, footer {
     margin: 0;
     max-width: 100%;
     padding: 0px;
-    vertical-align: baseline;
+    vertical-align: center;
 }
 
 body {
@@ -53,6 +54,7 @@ header {
     padding: 15px;
     margin: 0;
     width: 100%;
+    vertical-align: center;
 }
 
 ul {
@@ -64,6 +66,7 @@ ul {
     font-size: 20px;
     position: sticky;
     position: -webkit-sticky; /*safari*/
+    vertical-align: center;
 }
 
 li {
