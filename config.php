@@ -4,7 +4,7 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => <title>'Nicole Salow  |  Senior Graphic Designer'</title>,
+        'title' => 'Nicole Salow  |  Senior Graphic Designer',
         'description' => 'Nicole Salow Portfolio Site.',
         'image' => 'default-share.png',
     ],
