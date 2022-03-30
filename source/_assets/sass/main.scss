@@ -20,6 +20,7 @@ article {
 article, header, footer {
     background: #ffffff;
     padding: 45px;
+    vertical-align: center;
 }
 
 * {
@@ -50,8 +51,8 @@ header {
     justify-content: center;
     align-items: center;
     padding: 10px, 16px;
-    height: 60px;
-    display: block;
+    height: 150px;
+    margin: 0;
 }
 
 ul {
