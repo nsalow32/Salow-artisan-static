@@ -44,6 +44,7 @@ header {
     color: #000000;
     background-color: #ffdd00;
     top: 0;
+    padding: 35px, 45px, 45px, 45px;
     position: sticky;
     position: -webkit-sticky; /*safari*/
     max-wdith: 800px;
@@ -52,7 +53,7 @@ header {
 ul {
     list-style-type: none;
     overflow: hidden;
-    font-size: 20px;
+    font-size: 25px;
     display: table; 
     max-wdith: 800px;
     margin: 0 auto;
@@ -64,23 +65,27 @@ li {
 
 li a {
     padding: 15px;
+    text-decoration: none;
 }
 
 li a:hover {
     background-color: #000000;
     color: #ffdd00;
     padding: 15px;
+    text-decoration: none;
 }
 
 a {
     padding: 10px;
-    color: #000000
+    color: #000000;
+    text-decoration: none;
 }
 
 a:hover {
     background-color: #000000;
     color: #ffdd00;
     padding: 10px;
+    text-decoration: none;
 }
     
 .test-css {
@@ -95,7 +100,7 @@ h2 {
 }
 
 h3 {
-    font-size: 18px;
+    font-size: 14px;
     color: #000000;
     font-family: 'Karla', sans-serif;
     text-align: center;
@@ -104,11 +109,5 @@ h3 {
 p {
     font-size: 14px;
     color: #000000;
-    font-family: 'Karla', sans-serif;
-}
-
-title {
-    font-size: 50px;
-    color: #ffdd00;
     font-family: 'Karla', sans-serif;
 }
