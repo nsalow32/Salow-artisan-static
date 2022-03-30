@@ -20,8 +20,11 @@ header {
     font-family: 'Karla', sans-serif;
     position: fixed;
     top: 0;
-    width: 100%;
+    left: 0;
+    justify-content: center;
+    align-items: center;
     padding: 10px, 16px;
+    height: 60px;
 }
     
 .test-css {
