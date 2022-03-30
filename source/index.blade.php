@@ -1,8 +1,9 @@
 @extends('_layouts.master')
 
 @section('content')
-    <p><span class = "myNameBlack">Hello! My name is</span><spanclass="myName"> Nicole Salow.<span> </br>
-    <span class = "myNameBlack">Let's work together!</span></p>
+    <NM>"myNameBlack">HELLO! MY NAME IS<NM><NMblack> Nicole Salow.</NMblack>
+    </br>
+    <NMblack>Let's work together!</NMblack>
 
     <p>Artisan Static is a starter template for building a static Jigsaw blog hosted on Netlify.</p>
 
