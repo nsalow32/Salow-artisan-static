@@ -50,7 +50,7 @@ header {
     left: 0;
     justify-content: center;
     align-items: center;
-    padding: 10px, 16px;
+    padding: 20px;
     margin: 0;
 }
 
@@ -58,18 +58,29 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    top: 0;
     overflow: hidden;
     font-size: 20px;
+    position: sticky;
+    position: -webkit-sticky; /*safari*/
 }
 
 li {
   float: left;
 }
 
+li a {
+    padding: 14px, 16px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+
 li a:hover {
     background-color: #000000;
     color: #ffdd00;
     padding: 10px;
+    display: block;
 }
 
 a {
