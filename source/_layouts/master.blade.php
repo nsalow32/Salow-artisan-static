@@ -16,8 +16,11 @@
 
     <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
 </head>
+
+
 <body>
     <section>
+    
         <header>
             <nav>
                 <ul>
@@ -30,11 +33,13 @@
             </nav>
         </header>
 
+
         <article>
             <section>
                 @yield('content')
             </section>
         </article>
+
 
         <footer>
             <small>
