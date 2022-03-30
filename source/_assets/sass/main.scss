@@ -21,7 +21,7 @@ body {
     font-size: 18px;
     color: #000000;
     font-family: 'Karla', sans-serif;
-    margin: auto;
+    margin: 0 auto;
     max-wdith: 800px;
 }
       
@@ -32,6 +32,7 @@ header {
     top: 0;
     position: sticky;
     position: -webkit-sticky; /*safari*/
+    max-wdith: 800px;
 }
 
 ul {
@@ -39,7 +40,7 @@ ul {
     overflow: hidden;
     font-size: 20px;
     display: table; 
-    margin: 0 auto;
+    max-wdith: 800px;
 }
 
 li {
