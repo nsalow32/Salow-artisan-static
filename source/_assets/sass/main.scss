@@ -13,14 +13,7 @@ button[data-sharer] {
     color: #fff;
 }
 
-body, article, header, footer {
-    background: #ffffff;
-    padding: 45px;
-}
-
-article {
-    background: #ffffff;
-}
+//article {background: #ffffff;margin: auto;}//
 
 //* {border-collapse: separate;border-spacing: 0;box-sizing: border-box;margin: 0;max-width: 100%;padding: 0px;vertical-align: center;} //*
 
@@ -45,6 +38,8 @@ ul {
     list-style-type: none;
     overflow: hidden;
     font-size: 20px;
+    display: table; 
+    margin: 0 auto;
 }
 
 li {
