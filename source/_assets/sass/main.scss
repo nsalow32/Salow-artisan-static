@@ -13,6 +13,17 @@ button[data-sharer] {
     color: #fff;
 }
 
+article, body, header, footer {
+    background: #ffffff;
+    margin: auto;
+    padding: 45px;
+}
+
+body, header {
+    max-width: 800px;
+    margin: auto;
+}
+
 article {
     background: #ffffff;
     margin: auto;
