@@ -51,15 +51,12 @@ header {
 ul {
     list-style-type: none;
     margin: auto;
-    padding: 0;
-    top: 0;
     overflow: hidden;
     font-size: 20px;
-    text-align: center;
 }
 
 li {
-  float: left;
+  float: center;
 }
 
 li a {
