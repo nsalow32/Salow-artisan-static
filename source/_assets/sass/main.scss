@@ -51,7 +51,6 @@ header {
     justify-content: center;
     align-items: center;
     padding: 10px, 16px;
-    height: 150px;
     margin: 0;
 }
 
@@ -70,6 +69,12 @@ li {
 li a:hover {
     background-color: #000000;
     color: #ffdd00;
+    padding: 10px;
+}
+
+a {
+  display: block;
+  padding: 10px;
 }
     
 .test-css {
