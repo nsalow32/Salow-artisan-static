@@ -81,6 +81,7 @@ p {
 .brand-title {
     font-size: 1.5rem;
     margin: .5rem;
+    font-family: 'Karla', sans-serif;
 }
 
 .navbar-links {
@@ -105,7 +106,8 @@ p {
 }
 
 .navbar-links li:hover {
-    background-color: #ffdd00;
+    background-color: #000000;
+    color: #000000;
 }
 
 .toggle-button {
@@ -115,14 +117,15 @@ p {
     display: none;
     flex-direction: column;
     justify-content: space-between;
-    width: 30px;
-    height: 21px;
+    width: 50px;
+    height: 50px;
 }
 
 .toggle-button .bar {
-    height: 3px;
+    height: 10px;
     width: 100%;
-    background-color: #ffdd00;
+    background-color: #000000;
+    color: #ffdd00;
     border-radius: 10px;
 }
 
