@@ -99,7 +99,7 @@ p {
   padding: 0px;
   display: flex;
   justify-content: space-evenly;
-  align-items: center;
+  align-items: left;
   z-index: 9;
 }
 
@@ -165,7 +165,7 @@ p {
 .logo {
   color: #000000;
   font-size: 2.2rem;
-  padding: 20px;
+  padding: 5px;
 }
 
 #hamburger-menu ul {
