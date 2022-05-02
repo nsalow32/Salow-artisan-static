@@ -27,34 +27,37 @@
              <meta name="viewport" content="width=device-width, initial-scale=1.0" />   
         </header> 
 
+        <!--------LOGO-------->
+        
+        <div class = "nav">
+            <input type="checkbox" id="nav-check">
+                <div class="nav-header">
+                    <div class="nav-title">
+                         NICOLE SALOW
+                    </div>
+                </div>
         
         
-        <nav id="main-menu">
-            <ul>
-                <li><div class="logo">NICOLE SALOW</div></li>
-                <li><a href="/index">Home</a></li>
-                <li><a href="/design">Design</a></li>
-                <li><a href="/retouching">Retouching</a></li>
-                <li><a href="/photography">Photography</a></li>
-                <li><a href="/contact">Contact</a></li>
-          </ul>
-        </nav>
-
-        <input type="checkbox" id="hamburger-input" class="burger-shower" />
-        <label id="hamburger-menu" for="hamburger-input">N
-             <nav id="sidebar-menu">
-                <div class="logo">NICOLE SALOW</div>
+        <!--------TOGGLE FOR RESPONSIVE DESIGN-------->
+        <div class="nav-btn">
+            <label for="nav-check">
+                <span></span>
+                <span></span>
+                <span></span>
+              </label>
+        </div>
+        
+        
+            <div class="nav-links">
                 <ul>
                     <li><a href="/index">Home</a></li>
                     <li><a href="/design">Design</a></li>
                     <li><a href="/retouching">Retouching</a></li>
                     <li><a href="/photography">Photography</a></li>
                     <li><a href="/contact">Contact</a></li>
-                 </ul>
-             </nav>
-             </label>
-
-        <div class="overlay"></div>
+                </ul>
+            </div>
+        </div>
         
 
         <article>
