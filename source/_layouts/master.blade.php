@@ -20,18 +20,30 @@
 
 <body>
     <section>
-    
         <header>
-            <nav>
-            <h3>NICOLE SALOW | SENIOR GRAPHIC DESIGNER</h3>
-                <ul>
+            
+            <nav class="navbar">
+            
+            <!-- LOGO -->
+                <div class="logo">NICOLE SALOW</div>
+           
+           <!-- NAVIGATION MENU -->
+                   <ul class="nav-links">
                     <li><a href="/">Home</a></li>
                     <li><a href="/design">Design</a></li>
                     <li><a href="/retouching">Retouching</a></li>
                     <li><a href="/photography">Photography</a></li>
                     <li><a href="/contact">Contact</a></li>
-                </ul>
-            </nav>
+            
+            <!-- USING CHECKBOX HACK -->
+                        <input type="checkbox" id="checkbox_toggle" />
+                        <label for="checkbox_toggle" class="hamburger">&#9776;</label>
+       
+            <!-- NAVIGATION MENUS -->
+                    <div class=”menu”>...</div>
+                    </ul>
+                </nav>
+            
         </header>
 
 
