@@ -32,7 +32,7 @@
         <!--------LOGO-------->
         
         <nav class="navbar">
-            <div class="brand-title">Brand Name</div>
+            <div class="brand-title">NICOLE SALOW</div>
             <a href="#" class="toggle-button">
               <span class="bar"></span>
               <span class="bar"></span>
