@@ -16,7 +16,7 @@
 
     <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}" type= "text/css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <script src="nav.js" defer></script>
+    <script src="js/nav.js" defer></script>
 
 </head>
 
@@ -37,7 +37,8 @@
               <span class="bar"></span>
               <span class="bar"></span>
               <span class="bar"></span>
-            </a>
+              <span class="bar"></span>
+        </a>
             <div class="navbar-links">
                 <ul>
                     <li><a href="/index">Home</a></li>
