@@ -15,6 +15,7 @@
     @include('_partials.cms.identity_widget')
 
     <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}" type= "text/css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 
