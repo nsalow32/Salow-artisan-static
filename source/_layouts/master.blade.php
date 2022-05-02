@@ -26,38 +26,32 @@
              <meta name="viewport" content="width=device-width, initial-scale=1.0" />   
         </header> 
 
-        <nav class="navbar">
-            
-            <!-- LOGO -->
-                <div class="logo">NICOLE SALOW
-                </div>
-           
-           <!-- NAVIGATION MENU -->
-                <ul class="nav-links">
-                  
-            <!-- USING CHECKBOX HACK -->
-                    <input type="checkbox" id="checkbox_toggle" />
+        
+        
+        <nav id="main-menu">
+          <ul>
+            <li><a href="/design">Design</a></li>
+            <li><a href="/retouching">Retouching</a></li>
+            <li><a href="/photography">Photography</a></li>
+            <li><a href="/contact">Contact</a></li>
+          </ul>
+        </nav>
 
-                    <label for="checkbox_toggle" class="hamburger">&#9776;
-                    
-                    <li><a href="/">Home</a></li>
-                        <li><a href="/design">Design</a></li>
-                        <li><a href="/retouching">Retouching</a></li>
-                        <li><a href="/photography">Photography</a></li>
-                        <li><a href="/contact">Contact</a></li>
-                    </label>
-       
-            <!-- NAVIGATION MENUS -->
-                    <div class=”menu”>
-                        <li><a href="/">Home</a></li>
-                        <li><a href="/design">Design</a></li>
-                        <li><a href="/retouching">Retouching</a></li>
-                        <li><a href="/photography">Photography</a></li>
-                        <li><a href="/contact">Contact</a></li>
-                    </div>
+        <input type="checkbox" id="hamburger-input" class="burger-shower" />
+        <label id="hamburger-menu" for="hamburger-input">
+             <nav id="sidebar-menu">
+              <h3>Menu</h3>
+                <ul>
+                    <li><a href="/design">Design</a></li>
+                    <li><a href="/retouching">Retouching</a></li>
+                    <li><a href="/photography">Photography</a></li>
+                    <li><a href="/contact">Contact</a></li>
                  </ul>
-          </nav>
+             </nav>
+         </label>
 
+        <div class="overlay"></div>
+        
 
         <article>
             <section>
