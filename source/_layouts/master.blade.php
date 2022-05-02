@@ -40,7 +40,7 @@
         <input type="checkbox" id="hamburger-input" class="burger-shower" />
         <label id="hamburger-menu" for="hamburger-input">
              <nav id="sidebar-menu">
-              <h3>Menu</h3>
+              <h3>NICOLE SALOW</h3>
                 <ul>
                     <li><a href="/design">Design</a></li>
                     <li><a href="/retouching">Retouching</a></li>
