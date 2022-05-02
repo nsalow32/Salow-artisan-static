@@ -39,6 +39,12 @@
                     <input type="checkbox" id="checkbox_toggle" />
 
                     <label for="checkbox_toggle" class="hamburger">&#9776;
+                    
+                    <li><a href="/">Home</a></li>
+                        <li><a href="/design">Design</a></li>
+                        <li><a href="/retouching">Retouching</a></li>
+                        <li><a href="/photography">Photography</a></li>
+                        <li><a href="/contact">Contact</a></li>
                     </label>
        
             <!-- NAVIGATION MENUS -->
