@@ -31,12 +31,12 @@ li {
     list-style: none;
 }
 
-article, body, header, footer {
-    background: #ffffff;
-    margin: auto;
-    padding: 45px;
-    max width 800px;
-}
+//article, body, header, footer {
+//    background: #ffffff;
+ //   margin: auto;
+ //   padding: 45px;
+ //   max width 800px;
+//}
 
 //body, header {
    // max-width: 800px;
@@ -74,18 +74,18 @@ body {
     border: 2px solid blue;
 }
 
-h2 {
-    font-size: 20px;
-    color: #ffdd00;
-    font-family: 'Karla', sans-serif;
-}
+//h2 {
+  //  font-size: 20px;
+  //  color: #ffdd00;
+  //  font-family: 'Karla', sans-serif;
+//}
 
-h3 {
-    font-size: 14px;
-    color: #000000;
-    font-family: 'Karla', sans-serif;
-    text-align: center;
-}
+//h3 {
+  //  font-size: 14px;
+ //   color: #000000;
+  //  font-family: 'Karla', sans-serif;
+ //   text-align: center;
+//}
 
 p {
     font-size: 14px;
@@ -219,5 +219,6 @@ input[type=checkbox]{
 .dropdown li:hover {
     background-color: #4c9e9e;
 }
+    
 }
 
