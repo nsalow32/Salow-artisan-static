@@ -14,7 +14,7 @@ button[data-sharer] {
 }
 
 * {
-    margin: auto;
+    margin: 10px;
     //padding: 0;
     box-sizing: border-box;
     max-width: 800px;
@@ -23,7 +23,7 @@ button[data-sharer] {
 body {
     font-family: 'Karla', sans-serif;
     padding: 0px;
-    margin: 0px;
+    margin: 10px;
     font-size: 20px;
     min-height: 200vh;
 }
@@ -157,13 +157,14 @@ p {
 }
 
 #hamburger-menu h3 {
-  color: #ffdd00;
+  color: #000000;
   font-size: 2.2rem;
 }
 
 .logo {
-  color: #ffdd00;
+  color: #000000;
   font-size: 2.2rem;
+  padding: 20px;
 }
 
 #hamburger-menu ul {
