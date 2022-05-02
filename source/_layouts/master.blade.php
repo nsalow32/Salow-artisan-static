@@ -30,15 +30,13 @@
         
         
         <nav id="main-menu">
-        <!-- LOGO -->
-            <div class="logo">NICOLE SALOW</div>
-
-          <ul>
-            <li><a href="/index">Home</a></li>
-            <li><a href="/design">Design</a></li>
-            <li><a href="/retouching">Retouching</a></li>
-            <li><a href="/photography">Photography</a></li>
-            <li><a href="/contact">Contact</a></li>
+            <ul>
+                <li><div class="logo">NICOLE SALOW</div></li>
+                <li><a href="/index">Home</a></li>
+                <li><a href="/design">Design</a></li>
+                <li><a href="/retouching">Retouching</a></li>
+                <li><a href="/photography">Photography</a></li>
+                <li><a href="/contact">Contact</a></li>
           </ul>
         </nav>
 
