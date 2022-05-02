@@ -20,11 +20,8 @@ button[data-sharer] {
 }
 
 body {
-    font-family: 'Karla', sans-serif;
+    margin:0;
     padding: 0px;
-    margin: 50px 20px 50px 50px;
-    font-size: 20px;
-    min-height: 200vh;
 }
 
 article {
@@ -97,7 +94,6 @@ p {
 
 .navbar-links li {
     list-style: none;
-    font-size: 16px;
 }
 
 .navbar-links li a {
@@ -108,8 +104,7 @@ p {
 }
 
 .navbar-links li:hover {
-    background-color: #000000;
-    color: #ffdd00;
+    background-color: #333;
 }
 
 .toggle-button {
@@ -130,7 +125,7 @@ p {
     border-radius: 10px;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 800px) {
     .navbar {
         flex-direction: column;
         align-items: flex-start;
