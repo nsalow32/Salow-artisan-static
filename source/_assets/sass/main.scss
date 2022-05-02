@@ -64,11 +64,13 @@ ul {
 
 li {
     float: left;
+    max-wdith: 800px;
 }
 
 li a {
     padding: 25px;
     text-decoration: none;
+    max-wdith: 800px;
 }
 
 li a:hover {
@@ -76,18 +78,20 @@ li a:hover {
     color: #ffdd00;
     padding: 15px;
     text-decoration: none;
+    max-wdith: 800px;
 }
 
 a {
-    padding: 10px;
+    padding: 15px;
     color: #000000;
     text-decoration: none;
+    max-wdith: 800px;
 }
 
 a:hover {
     background-color: #000000;
     color: #ffdd00;
-    padding: 10px;
+    padding: 15px;
     text-decoration: none;
 }
     
