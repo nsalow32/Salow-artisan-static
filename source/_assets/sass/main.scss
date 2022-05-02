@@ -76,12 +76,14 @@ p {
     align-items: center;
     background-color: #ffdd00;
     color: #000000;
+    max-width: 800px;
 }
 
 .brand-title {
     font-size: 1.5rem;
     margin: .5rem;
     font-family: 'Karla', sans-serif;
+    padding-left: 10px;
 }
 
 .navbar-links {
@@ -96,6 +98,7 @@ p {
 
 .navbar-links li {
     list-style: none;
+    font-size: 18px;
 }
 
 .navbar-links li a {
@@ -107,7 +110,7 @@ p {
 
 .navbar-links li:hover {
     background-color: #000000;
-    color: #000000;
+    color: #ffdd00;
 }
 
 .toggle-button {
