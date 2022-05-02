@@ -122,14 +122,13 @@ p {
 }
 
 .toggle-button .bar {
-    height: 10px;
+    height: 3px;
     width: 100%;
     background-color: #000000;
-    color: #ffdd00;
     border-radius: 10px;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 600px) {
     .navbar {
         flex-direction: column;
         align-items: flex-start;
