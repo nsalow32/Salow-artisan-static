@@ -60,17 +60,21 @@ ul {
     display: table; 
     max-wdith: 800px;
     margin: 0 auto;
+    padding: 15px;
 }
 
 li {
     float: left;
     max-wdith: 800px;
+    font-size: 20px;
+    padding: 15px;
 }
 
 li a {
-    padding: 25px;
+    padding: 15px;
     text-decoration: none;
     max-wdith: 800px;
+    font-size: 20px;
 }
 
 li a:hover {
@@ -79,6 +83,7 @@ li a:hover {
     padding: 15px;
     text-decoration: none;
     max-wdith: 800px;
+    font-size: 20px;
 }
 
 a {
@@ -86,6 +91,7 @@ a {
     color: #000000;
     text-decoration: none;
     max-wdith: 800px;
+    font-size: 20px;
 }
 
 a:hover {
@@ -93,6 +99,7 @@ a:hover {
     color: #ffdd00;
     padding: 15px;
     text-decoration: none;
+    font-size: 20px;
 }
     
 .test-css {
