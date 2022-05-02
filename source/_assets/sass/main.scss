@@ -28,29 +28,9 @@ body {
     min-height: 200vh;
 }
 
-//a {
-  //  text-decoration: none;
-//}
-
-//li {
-//    list-style: none;
-//}
-
-//article, body, header, footer {
-//    background: #ffffff;
- //   margin: auto;
- //   padding: 45px;
- //   max-width: 800px;
-//}
-
-//body, header {
-   // max-width: 800px;
-   // margin: auto;
-//}
-
 article {
     background: #ffffff;
- //   margin: auto;
+    margin: auto;
 }
 
 //* {border-collapse: separate;border-spacing: 0;box-sizing: border-box;margin: 0;max-width: 100%;padding: 0px;vertical-align: center;} //*
@@ -79,19 +59,6 @@ article {
     border: 2px solid blue;
 }
 
-//h2 {
-  //  font-size: 20px;
-  //  color: #ffdd00;
-  //  font-family: 'Karla', sans-serif;
-//}
-
-//h3 {
-  //  font-size: 14px;
- //   color: #000000;
-  //  font-family: 'Karla', sans-serif;
- //   text-align: center;
-//}
-
 p {
     font-size: 14px;
     color: #000000;
@@ -110,7 +77,7 @@ p {
     visibility: hidden;
     transition: opacity .35s, visibility .35s, height .35s;
     overflow: hidden;
-    background: black;
+    background: 000000;
     z-index: -1;
 }
 
@@ -118,7 +85,8 @@ p {
   display: block;
   height: 100px;
   width: 100%;
-  background: #3D0E61;
+  background: #ffdd00;
+  color: #000000;
   margin: 0px;  
   z-index: 9;
 }
@@ -141,7 +109,7 @@ p {
 }
 
 #main-menu a {
-  color: #B9FAF8;
+  color: #000000;
   font-size: 1.5rem;
   text-decoration: none;
 }
@@ -167,11 +135,11 @@ p {
     font-family: 'Cabin', Sans-serif;
     background: linear-gradient(
       to bottom, 
-      #3D0E61, #3D0E61 20%, 
+      #000000, #000000 20%, 
       white 20%, white 40%, 
-      #3D0E61 40%, #3D0E61 60%, 
+      #000000 40%, #000000 60%, 
       white 60%, white 80%, 
-      #3D0E61 80%, #3D0E61 100%
+      #000000 80%, #000000 100%
     );
 }
 
@@ -182,14 +150,14 @@ p {
     left: -250px;
     width: 200px;
     height: 100%;
-    background-color: #3D0E61;
+    background-color: #ffdd00;
     transition: 0.3s;
     padding: 0px 10px;
     box-sizing: border-box;
 }
 
 #hamburger-menu h3 {
-  color: #B9FAF8;
+  color: #ffdd00;
   font-size: 2.2rem;
 }
 
@@ -203,7 +171,7 @@ p {
 }
 
 #hamburger-menu a {
-  color: #B9FAF8;
+  color: #000000;
   font-size: 1.3rem;
   text-decoration: none;
 }
