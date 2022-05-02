@@ -195,10 +195,12 @@ p {
 #hamburger-input:checked + #hamburger-menu #sidebar-menu {
     visibility: visible;
     left: 0;
+    margin: 10px 5px 0px 10px;
 }
+
 #hamburger-input:checked ~ .overlay{
-   visibility: visible;
-  opacity: 0.4;
+    visibility: visible;
+    opacity: 0.4;
 }
 
 
