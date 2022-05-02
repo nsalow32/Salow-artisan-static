@@ -15,8 +15,9 @@ button[data-sharer] {
 
 * {
     margin: auto;
-    padding: 0;
+    padding: 45px;
     box-sizing: border-box;
+    max-width: 800px;
 }
 
 body {
@@ -29,6 +30,7 @@ a {
 
 li {
     list-style: none;
+    float: left;
 }
 
 //article, body, header, footer {
