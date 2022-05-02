@@ -17,12 +17,13 @@ article, body, header, footer {
     background: #ffffff;
     margin: auto;
     padding: 45px;
+    max width 800px;
 }
 
-body, header {
-    max-width: 800px;
-    margin: auto;
-}
+//body, header {
+   // max-width: 800px;
+   // margin: auto;
+//}
 
 article {
     background: #ffffff;
@@ -84,6 +85,7 @@ p {
     padding: 20px;
     background-color: #000000;
     color: #ffdd00;
+    max width 800px;
 }
 
 .nav-links a {
