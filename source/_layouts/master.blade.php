@@ -29,6 +29,9 @@
         
         
         <nav id="main-menu">
+        <!-- LOGO -->
+            <div class="logo">NICOLE SALOW</div>
+
           <ul>
             <li><a href="/design">Design</a></li>
             <li><a href="/retouching">Retouching</a></li>
