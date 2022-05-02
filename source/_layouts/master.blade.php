@@ -44,7 +44,7 @@
         <input type="checkbox" id="hamburger-input" class="burger-shower" />
         <label id="hamburger-menu" for="hamburger-input">
              <nav id="sidebar-menu">
-              <h3>NICOLE SALOW</h3>
+                <div class="logo">NICOLE SALOW</div>
                 <ul>
                     <li><a href="/index">Home</a></li>
                     <li><a href="/design">Design</a></li>
