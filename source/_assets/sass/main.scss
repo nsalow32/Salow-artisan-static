@@ -35,7 +35,7 @@ li {
 //    background: #ffffff;
  //   margin: auto;
  //   padding: 45px;
- //   max width: 800px;
+ //   max-width: 800px;
 //}
 
 //body, header {
@@ -103,7 +103,7 @@ p {
     padding: 20px;
     background-color: #000000;
     color: #ffdd00;
-    max width 800px;
+    max-width 800px;
 }
 
 .nav-links a {
@@ -180,7 +180,7 @@ input[type=checkbox]{
 }
 
 /* APPLYING MEDIA QUERIES */
-@media (max-width: 768px) {
+@media (max-width: 800px) {
 
 .menu { 
     display:none;
