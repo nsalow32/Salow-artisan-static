@@ -33,6 +33,7 @@
             <div class="logo">NICOLE SALOW</div>
 
           <ul>
+            <li><a href="/index">Home</a></li>
             <li><a href="/design">Design</a></li>
             <li><a href="/retouching">Retouching</a></li>
             <li><a href="/photography">Photography</a></li>
@@ -45,6 +46,7 @@
              <nav id="sidebar-menu">
               <h3>NICOLE SALOW</h3>
                 <ul>
+                    <li><a href="/index">Home</a></li>
                     <li><a href="/design">Design</a></li>
                     <li><a href="/retouching">Retouching</a></li>
                     <li><a href="/photography">Photography</a></li>
