@@ -42,7 +42,7 @@
         </nav>
 
         <input type="checkbox" id="hamburger-input" class="burger-shower" />
-        <label id="hamburger-menu" for="hamburger-input">&#9776;
+        <label id="hamburger-menu" for="hamburger-input">N</label>
              <nav id="sidebar-menu">
                 <div class="logo">NICOLE SALOW</div>
                 <ul>
@@ -53,7 +53,6 @@
                     <li><a href="/contact">Contact</a></li>
                  </ul>
              </nav>
-         </label>
 
         <div class="overlay"></div>
         
