@@ -1,9 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway');
+const toggleButton = document.getElementsByClassName('toggle-button')[0]
+const navbarLinks = document.getElementsByClassName('navbar-links')[0]
 
-* {
-    font-family: Raleway;
-}
-
-html {
-    background-color: #DFDFDF;
-}
+toggleButton.addEventListener('click', () => [
+    navbarLinks.classList.toggle('active')
+    }
