@@ -31,7 +31,7 @@
         <!--------LOGO-------->
         
         <nav class="navbar">
-            <div class="brand-title" a href="design">NICOLE SALOW</div>
+            <div class="brand-title">NICOLE SALOW</div>
             <a href="#" class="toggle-button">
               <span class="bar"></span>
               <span class="bar"></span>
@@ -39,7 +39,7 @@
         </a>
             <div class="navbar-links">
                 <ul>
-                    <li><a href="/source/index.blade.php">Home</a></li>
+                    <li><a href="index">Home</a></li>
                     <li><a href="/design">Design</a></li>
                     <li><a href="/retouching">Retouching</a></li>
                     <li><a href="/photography">Photography</a></li>
