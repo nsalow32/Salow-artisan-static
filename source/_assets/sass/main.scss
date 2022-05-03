@@ -125,6 +125,10 @@ p {
     color: #ffdd00;
 }
 
+.navbar-links li:hover a {
+    color: inherit;
+}
+
 .toggle-button {
     position: absolute;
     top: 1.25rem;
