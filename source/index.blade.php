@@ -10,7 +10,6 @@
         
         <p>The HTML, CSS and JavaScript in this template are extremely minimal, which makes the code easy to build on top of or replace completely.</p>
         </br>
-        <h1 id="test">Asset Compilation Test</h1></br>
         <p>CSS test: <span class="test-css">text with blue border</span></p>
         <p>JavaScript test: <a href="#test" class="test-js">click me</a></p>
                 <p>The HTML, CSS and JavaScript in this template are extremely minimal, which makes the code easy to build on top of or replace completely.</p>
