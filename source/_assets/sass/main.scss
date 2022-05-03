@@ -14,7 +14,6 @@ button[data-sharer] {
 }
 
 * {
-    padding: 25px;
     box-sizing: border-box;
     font-family: 'Karla', sans-serif;
     max-width: 100%;
@@ -30,13 +29,14 @@ button[data-sharer] {
 
 section {
     max-width: 100%;
-    margin: auto;
+    margin: 20px;
 }
 
 footer {
     max-width: 100%;
     justify-content: left;
     font-size: .5rem;
+    maring-top: 20px;
 }
 
 //article {
