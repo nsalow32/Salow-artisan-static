@@ -6,7 +6,7 @@
 
    <h1>DESIGN PORTFOLIO</h1>
    
-   <img src='source/assets/test.jpg' alt='test photo' />
+   <img src='source/_assets/test.jpg' alt='test photo' />
    
 
  
