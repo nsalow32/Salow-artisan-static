@@ -16,6 +16,7 @@ button[data-sharer] {
 * {
     //padding: 0;
     box-sizing: border-box;
+    font-family: 'Karla', sans-serif;
 }
 
 //body {
@@ -104,7 +105,6 @@ p {
     display: flex;
     margin: 0;
     padding: 0;
-    max-width: 800px;
 }
 
 .navbar-links li {
@@ -119,12 +119,13 @@ p {
 }
 
 .navbar-links li:hover {
-    background-color: #333;
+    background-color: #000;
+    color: #ffdd00;
 }
 
 .toggle-button {
     position: absolute;
-    top: .75rem;
+    top: 1.25rem;
     right: 1rem;
     display: none;
     flex-direction: column;
