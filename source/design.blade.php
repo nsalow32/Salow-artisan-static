@@ -6,8 +6,10 @@
 
    <h1>DESIGN PORTFOLIO</h1>
    
-   <img src='source/_assets/images/test.jpg' alt='test photo' />
-   
+   <img src='source/images/test.jpg' alt='test photo' />
+</br>
+   <img src='source/test.jpg' alt='test photo' />
+
 
  
 @endsection
