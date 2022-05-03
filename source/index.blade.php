@@ -3,16 +3,14 @@
 @section('content')
 
     <body>
-        <p>HELLO! MY NAME IS <b>NICOLE SALOW</b>. Let's work together!</p>
+        <p>Hello! My name is <b>NICOLE SALOW</b>. Let's work together!</p>
         </br>
-        <p>Artisan Static is a starter template for building a static Jigsaw blog hosted on Netlify.
-        This comes with code highlighting, share buttons, comments, analytics, an RSS feed, a contact form, a CMS and more.</p>
         
-        <p>The HTML, CSS and JavaScript in this template are extremely minimal, which makes the code easy to build on top of or replace completely.</p>
-        </br>
-        <p>CSS test: <span class="test-css">text with blue border</span></p>
         <p>JavaScript test: <a href="#test" class="test-js">click me</a></p>
-                <p>The HTML, CSS and JavaScript in this template are extremely minimal, which makes the code easy to build on top of or replace completely.</p>
+        
+        <p><b>ABOUT ME<b> </p>
+        <p> I am forever optimistic, work hard, and love new adventures! Graphic design is my passion, and I also love photography, music and travel. I     strive to consistently learn new creative skills to achieve my personal and professional goals–I'm currently working towards a master's degree in computer science, and a certificate in UX Design. I have a wide array of professional and life experience that has shaped the person I am today: adaptable, patient, creative, energetic, and ready to jump in with both feet!
+        </p>
 
       
        
