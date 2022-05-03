@@ -16,7 +16,6 @@
 
     <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}" type= "text/css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <script type ="text/javascript" src="https://www.nicolesalow.com/source/_assets/js/nav.js"></script>
 
 </head>
 
@@ -68,5 +67,9 @@
     <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
     @includeWhen($page->production && $page->services->analytics, '_partials.analytics')
     @include('_partials.cms.identity_redirect')
+    
+    
+        <script type ="text/javascript" src="https://www.nicolesalow.com/source/_assets/js/nav.js"></script>
+
 </body>
 </html>
