@@ -19,9 +19,11 @@ button[data-sharer] {
 }
 
 body {
-    margin:15;
+    margin:30;
     padding: 0px;
     font-family: 'Karla', sans-serif;
+    max-width: 800px;
+    justify-content: relative;
 }
 
 article {
