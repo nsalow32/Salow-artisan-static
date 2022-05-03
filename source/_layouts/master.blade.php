@@ -31,7 +31,7 @@
         <!--------LOGO-------->
         
         <nav class="navbar">
-            <div class="brand-title">NICOLE SALOW</div>
+            <div class="brand-title" a href="index">NICOLE SALOW</div>
             <a href="#" class="toggle-button">
               <span class="bar"></span>
               <span class="bar"></span>
