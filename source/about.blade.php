@@ -1,3 +1,3 @@
-@extends('_layouts.master')
+@extends('layouts.master')
 
 @section('title', 'About')
