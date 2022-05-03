@@ -68,8 +68,14 @@
     @includeWhen($page->production && $page->services->analytics, '_partials.analytics')
     @include('_partials.cms.identity_redirect')
     
-    
-        <script type ="text/javascript" src="https://www.nicolesalow.com/source/_assets/js/nav.js"></script>
+        <script>
+            const toggleButton = document.getElementsByClassName('toggle-button')[0]
+            const navbarLinks = document.getElementsByClassName('navbar-links')[0]
+
+            toggleButton.addEventListener('click', () => {
+                navbarLinks.classList.toggle('active')
+        })
+</script>    
 
 </body>
 </html>
