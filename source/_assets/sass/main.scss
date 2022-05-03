@@ -16,7 +16,6 @@ button[data-sharer] {
 * {
     //padding: 0;
     box-sizing: border-box;
-    max-width: 800px;
 }
 
 body {
@@ -28,6 +27,8 @@ body {
 article {
     background: #ffffff;
     margin: 50px 10px 50px 10px;
+    max-width: 800px;
+
 }
 
 //* {border-collapse: separate;border-spacing: 0;box-sizing: border-box;margin: 0;max-width: 100%;padding: 0px;vertical-align: center;} //*
