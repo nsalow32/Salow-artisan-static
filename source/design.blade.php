@@ -6,7 +6,9 @@
 
    <h1>DESIGN PORTFOLIO</h1>
    
-   <img src='source/public/test.jpg'/>
+  <body>
+      <img src='www.nicolesalow.com/test.jpg'/>
+</body>
 
 
 
