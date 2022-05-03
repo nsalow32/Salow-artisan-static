@@ -3,7 +3,7 @@
 @section('content')
 
     <body>
-        <h1>HELLO! MY NAME IS<h1><h2>NICOLE SALOW.</h2><h1>Let's work together!</h1>
+        <h1>HELLO! MY NAME IS <b>NICOLE SALOW<b>. Let's work together!</h1>
         </br>
         <p>Artisan Static is a starter template for building a static Jigsaw blog hosted on Netlify.
         This comes with code highlighting, share buttons, comments, analytics, an RSS feed, a contact form, a CMS and more.</p>
