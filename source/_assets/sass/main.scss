@@ -30,6 +30,13 @@ section {
     margin: 50px;
 }
 
+footer {
+    max-width: 800px;
+    margin: 50px;
+    justify-content: left;
+    font-size: .5rem;
+}
+
 //article {
  //   background: #ffffff;
  //   margin: 50px 10px 50px 10px;
@@ -63,7 +70,7 @@ section {
 }
 
 p {
-    font-size: 14px;
+    font-size: 1.25rem;
     color: #000000;
     font-family: 'Karla', sans-serif;
 }
