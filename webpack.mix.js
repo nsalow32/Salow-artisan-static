@@ -12,4 +12,4 @@ mix.jigsaw()
     })
     .version();
 
-    mix.copy('source/_assets/images ', 'public/images'); 
+    mix.copy('source/_assets/images', 'public/images'); 
