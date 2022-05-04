@@ -20,9 +20,9 @@ return [
         'analytics' => 'UA-XXXXX-Y',
         'disqus' => 'artisanstatic',
         'formcarry' => 'XXXXXXXXXXXX',
-        'cloudinary' => [
-            'cloudName' => 'artisanstatic',
-            'apiKey' => '365895137117119',
+       // 'cloudinary' => [
+        //    'cloudName' => 'artisanstatic',
+         //   'apiKey' => '365895137117119',
         ],
     ],
     'collections' => [

@@ -11,3 +11,5 @@ mix.jigsaw()
         processCssUrls: false,
     })
     .version();
+
+    mix.copy('sources/_assets/images ', 'public/images'); 
