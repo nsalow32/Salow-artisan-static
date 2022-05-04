@@ -12,4 +12,4 @@ mix.jigsaw()
     })
     .version();
 
-    mix.copyDirectory('source/_assets/images', 'assets/build/images'); 
+    mix.copyDirectory('source/_assets/images', 'build/images'); 
