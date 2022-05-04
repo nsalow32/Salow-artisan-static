@@ -20,6 +20,3 @@ if (clickMe) {
         clickMe.textContent = 'it works ' + String(Date.now()).slice(-6);
     });
 }
-
-require.context("./../../assets/images/", true, /^\.\/.*\.(jpe?g|png)/);
-
