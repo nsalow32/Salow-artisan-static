@@ -2,8 +2,7 @@
 
 return [
     'production' => false,
-
-    'baseUrl' => 'https://nicolesalow.com',
+    'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
         'title' => 'Nicole Salow  |  Senior Graphic Designer',
         'description' => 'Nicole Salow Portfolio Site.',
@@ -19,10 +18,10 @@ return [
     'services' => [
         'cmsVersion' => '~2.10',
         'analytics' => 'UA-XXXXX-Y',
-        'disqus' => 'NicoleSalow',
+        'disqus' => 'artisanstatic',
         'formcarry' => 'XXXXXXXXXXXX',
         'cloudinary' => [
-            'cloudName' => 'NicoleSalow',
+            'cloudName' => 'artisanstatic',
             'apiKey' => '365895137117119',
         ],
     ],
