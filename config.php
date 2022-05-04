@@ -6,7 +6,7 @@ return [
     'site' => [
         'title' => 'Nicole Salow  |  Senior Graphic Designer',
         'description' => 'Nicole Salow Portfolio Site.',
-        'image' => 'favicon.ico',
+        'image' => 'favicon.png',
     ],
     'owner' => [
         'name' => 'Nicole Salow',
@@ -20,9 +20,9 @@ return [
         'analytics' => 'UA-XXXXX-Y',
         'disqus' => 'artisanstatic',
         'formcarry' => 'XXXXXXXXXXXX',
-       // 'cloudinary' => [
-        //    'cloudName' => 'artisanstatic',
-         //   'apiKey' => '365895137117119',
+        'cloudinary' => [
+            'cloudName' => 'artisanstatic',
+            'apiKey' => '365895137117119',
         ],
     ],
     'collections' => [
