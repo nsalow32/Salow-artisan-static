@@ -13,3 +13,30 @@ mix.jigsaw()
     .version();
 
 
+
+mix.webpackConfig({
+        plugins: [
+            build.jigsaw,
+            build.browserSync(),
+            build.watch([
+                'config.php',
+                'source/**/*.md',
+                'source/**/*.php',
+                'source/**/*.scss',
+            ]),
+        ],
+        module: {
+            rules: [
+                {
+                    test: /\.(jpe?g|png)$/i,
+                    loader: 'responsive-loader',
+                    options: {
+                        sizes: [150, 300, 600, 900, 1200],
+                        name: "[name]-[width].[ext]",
+                        outputPath: 'images/sizes',
+                        adapter: require('responsive-loader/sharp')
+                    },
+                }
+            ]
+        },
+    });
