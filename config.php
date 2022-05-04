@@ -2,11 +2,11 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://artisanstatic.netlify.app',
+    'baseUrl' => 'https://www.nicolesalow.com',
     'site' => [
         'title' => 'Nicole Salow  |  Senior Graphic Designer',
         'description' => 'Nicole Salow Portfolio Site.',
-        'image' => 'default-share.png',
+        'image' => 'favicon.ico',
     ],
     'owner' => [
         'name' => 'Nicole Salow',
