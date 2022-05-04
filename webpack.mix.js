@@ -10,6 +10,10 @@ mix.jigsaw()
     .options({
         processCssUrls: false,
     })
+    .imagemin({
+        from: 'source/assets/images/*.*',
+        to: 'images/[name].[ext]',
+    })
     .version();
 
 
