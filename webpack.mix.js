@@ -10,6 +10,7 @@ mix.jigsaw()
     .options({
         processCssUrls: false,
     })
+    .sourceMaps()
     .imagemin({
         from: 'source/assets/images/**/*.*',
         to: 'images/[name].[ext]',
