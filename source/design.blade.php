@@ -6,8 +6,9 @@
 
    <h1>DESIGN PORTFOLIO</h1>
    
-   <img src='public/test.jpg'/>
-
+   <img src='source/images/test.jpg'/>
+</br>
+   <img src='source/test.jpg'/>
 
 
  
