@@ -7,7 +7,7 @@
    <h1>DESIGN PORTFOLIO</h1>
    
   <body>
-      <img src='/test.jpg'/>
+      <img src='source/assets/test.jpg'/>
 </body>
 
 
