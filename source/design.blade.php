@@ -7,8 +7,6 @@
    <h1>DESIGN PORTFOLIO</h1>
    
   <body>
-
- <p> hi</p>
 </body>
 
 
