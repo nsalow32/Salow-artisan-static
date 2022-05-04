@@ -21,3 +21,5 @@ if (clickMe) {
     });
 }
 
+require.context("./../../assets/images/", true, /^\.\/.*\.(jpe?g|png)/);
+
