@@ -8,6 +8,12 @@ return [
         'description' => 'Nicole Salow Portfolio Site.',
         'image' => 'favicon.png',
     ],
+
+    'build' => [
+        'source' => 'content',
+        'destination' => 'assets',
+    ],
+
     'owner' => [
         'name' => 'Nicole Salow',
     ],
