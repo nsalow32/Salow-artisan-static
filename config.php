@@ -6,12 +6,7 @@ return [
     'site' => [
         'title' => 'Nicole Salow  |  Senior Graphic Designer',
         'description' => 'Nicole Salow Portfolio Site.',
-        'image' => 'favicon.png',
-    ],
-
-    'build' => [
-        'source' => 'images',
-        'destination' => 'assets',
+        'image' => 'favicon.ico',
     ],
 
     'owner' => [
